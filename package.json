@@ -1,0 +1,19 @@
+{
+  "name": "goit-markup-hw-01",
+  "version": "1.0.0",
+  "description": "HTML homework project",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "keywords": [
+    "html",
+    "markup",
+    "homework"
+  ],
+  "author": "",
+  "license": "ISC"
+}
